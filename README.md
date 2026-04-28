@@ -7,16 +7,14 @@
   />
 </a>
 
-## About
-
+### About
 I am a physician-scientist at the Ocular Genomics Institute, Harvard Medical School and Mass Eye and Ear, specializing in inherited retinal degenerations. I maintain a registry of over 10,000 patients and bridge high-resolution clinical phenotyping with computational and experimental genomics approaches.
 
 My work sits at the intersection of functional splicing biology, machine learning-based variant interpretation, and translational medicine. I have over 15 years of clinical experience and collaborate closely with the Medical Population Genetics group at the Broad Institute.
 
 I also consult for leading gene therapy biotechnology and pharmaceutical companies, advising on computational pipeline design, data strategy, and translational decision-making.
 
-## Projects
-
+### Projects
 ### Cryptic Exon Activation in Inherited Retinal Degenerations
 
 My primary research investigates how deep intronic variants — sequence changes located far from exon boundaries — trigger inappropriate inclusion of cryptic exons into messenger RNA transcripts of known inherited retinal degeneration disease genes.
@@ -28,8 +26,7 @@ Non-coding variants that alter messenger RNA splicing are increasingly recognize
 - How can we improve computational prediction of intronic variant pathogenicity?
 - Can high-throughput experimental assays close the gap between prediction and validation?
 
-## AlphaGenome
-
+### AlphaGenome
 As part of our variant benchmarking effort, we evaluated AlphaGenome alongside the top-performing computational classifiers for variant pathogenicity prediction, using our experimentally validated dataset as ground truth.
 
 **What we found:**
@@ -47,16 +44,14 @@ While many newly developed algorithms present promising results, there remains a
 
 We are actively interested in collaborations aimed at integrating retinal genomics expertise into next-generation variant effect prediction tools, and welcome discussion on how best to complement existing training datasets with our cases.
 
-## SpliceAI
-
+### SpliceAI
 We benchmarked SpliceAI as part of our evaluation of the top four best-performing classifiers for deep intronic variant pathogenicity prediction, using an autosomal recessive inheritance pattern.
 
 SpliceAI was evaluated head-to-head against AlphaGenome and other leading tools using our high-throughput splicing assay experimental results as ground truth. While SpliceAI performs well for variants near splice sites, its sensitivity for deep intronic variants — those more than 50 base pairs from the nearest exon — remains limited.
 
 Our experimental dataset provides a unique opportunity to benchmark and improve tools like SpliceAI using real patient-derived variant data with functional read-outs.
 
-## Experimental Validation
-
+### Experimental Validation
 ### High-Throughput Splicing Assay Platform
 
 To systematically evaluate intronic variant pathogenicity, we co-developed a high-throughput splicing assay platform in collaboration with the Medical Population Genetics group at the Broad Institute.
@@ -84,8 +79,7 @@ Periexonic variant results served as experimental controls for deep intronic var
 4. RNA extraction and reverse transcription polymerase chain reaction amplification
 5. Sequencing and quantification of splicing outcomes
 
-## Discussions
-
+### Discussions
 We welcome collaboration and scientific exchange on the following topics:
 
 **Variant pathogenicity prediction**
@@ -104,8 +98,7 @@ As we identify interesting and validated results from our high-throughput splici
 
 Feel free to open an issue or reach out directly to start a conversation.
 
-## Methods
-
+### Methods
 ### Summary of Key Methods Used
 
 **High-Throughput Splicing Assay**
