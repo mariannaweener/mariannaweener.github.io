@@ -10,6 +10,26 @@
 </a>
 
 Boston, USA, April 28, 2026
+
+<table>
+<tr>
+<td valign="top" width="200">
+
+### Navigation
+- [About](#readme.md)
+- [Projects](#projects)
+- [AlphaGenome](#alphagenome)
+- [SpliceAI](#spliceai)
+- [Experimental Validation](#experimental-validation)
+- [Discussions](#discussions)
+- [Methods](#methods)
+
+</td>
+<td valign="top">
+
+<!-- Your main content goes here -->
+
+
 <h4>Physician-scientist at Ocular Genomics Institute, Harvard Medical School</h4>
 I specialize in inherited retinal degenerations, with a focus on uncovering the genetic causes of unsolved cases through functional genomics, advanced sequencing analytics, and artificial intelligence-driven variant interpretation. I maintain a registry of over 10,000 inherited retinal degeneration patients and bridge high-resolution clinical phenotyping with computational and experimental approaches.
 <h4>Current Research</h4>
@@ -18,3 +38,14 @@ To study this systematically, I co-developed a high-throughput splicing assay pl
 <h4>AlphaGenome Benchmarking and Validation</h4>
 As part of this work, I benchmarked the performance of leading computational variant pathogenicity classifiers, including SpliceAI and AlphaGenome, against our experimental ground-truth dataset. While AlphaGenome proved highly informative overall, we identified meaningful discrepancies in its predictions for deep intronic variants — including both false positives and false negatives — that are not captured by existing prediction programs. This highlights a broader gap in the field: many newly developed algorithms lack robust experimental validation, particularly for non-coding and deep intronic variant classes.
 Our dataset, paired with ocular tissue RNA sequencing data from our patient registry, represents a unique resource for improving and contextualizing model training in a biologically accurate, tissue-specific manner. I am actively interested in collaborations aimed at integrating retinal genomics expertise and experimental validation into next-generation variant effect prediction tools.
+
+### About
+### Projects
+### AlphaGenome
+### SpliceAI
+### Experimental Validation
+### Discussions
+### Methods
+</td>
+</tr>
+</table>
