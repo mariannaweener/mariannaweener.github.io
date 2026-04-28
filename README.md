@@ -1,5 +1,5 @@
 # mariannaweener.github.io
-Personal journey
+Boston, USA, April 28, 2026
 <h3>Physician-scientist | Ocular Genomics Institute, Harvard Medical School & Mass Eye and Ear</h3>
 I specialize in inherited retinal degenerations, with a focus on uncovering the genetic causes of unsolved cases through functional genomics, advanced sequencing analytics, and artificial intelligence-driven variant interpretation. I maintain a registry of over 10,000 inherited retinal degeneration patients and bridge high-resolution clinical phenotyping with computational and experimental approaches.
 <h3>Current Research</h3>
