@@ -2,7 +2,7 @@
   <img 
     src="https://media.licdn.com/dms/image/v2/D4D03AQGS8gdiTZT8Fw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1682457911773?e=1778716800&v=beta&t=-ZpMYreuOoUxH_OPjjRZPZVoz1VQlweP9112AZDPs_w" 
     alt="About Me" 
-    width="120" 
+    width="250" 
     align="right" 
     style="margin: 0 0 10px 10px; border-radius: 50%;"
   />
