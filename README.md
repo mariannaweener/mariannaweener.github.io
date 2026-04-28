@@ -1,12 +1,12 @@
 # mariannaweener.github.io
 Personal journey
-Physician-scientist | Ocular Genomics Institute, Harvard Medical School & Mass Eye and Ear
+<h2>Physician-scientist | Ocular Genomics Institute, Harvard Medical School & Mass Eye and Ear</h2>
 I specialize in inherited retinal degenerations, with a focus on uncovering the genetic causes of unsolved cases through functional genomics, advanced sequencing analytics, and artificial intelligence-driven variant interpretation. I maintain a registry of over 10,000 inherited retinal degeneration patients and bridge high-resolution clinical phenotyping with computational and experimental approaches.
-Current Research
+<h2>Current Research</h2>
 My primary project investigates how deep intronic variants — sequence changes located far from exon boundaries — trigger the inappropriate inclusion of cryptic exons into messenger RNA transcripts of known inherited retinal degeneration disease genes. This splicing disruption represents an underappreciated but significant contributor (estimated at approximately 30%) to the genetic causality of inherited retinal degenerations and Mendelian disease more broadly.
 To study this systematically, I co-developed a high-throughput splicing assay platform in collaboration with the Medical Population Genetics group at the Broad Institute. This platform uses a minigene construct flanked by split green fluorescent protein exons to experimentally measure splicing outcomes for large variant libraries. To date, we have functionally evaluated nearly 5,000 variants — including 992 deep intronic variants and over 4,000 periexonic variants — using stable transfection in HEK293 cells followed by fluorescence-activated cell sorting, RNA extraction, reverse transcription polymerase chain reaction amplification, and sequencing.
-AlphaGenome Benchmarking and Validation
+<h2>AlphaGenome Benchmarking and Validation</h2>
 As part of this work, I benchmarked the performance of leading computational variant pathogenicity classifiers, including AlphaGenome, against our experimental ground-truth dataset. While AlphaGenome proved highly informative overall, we identified meaningful discrepancies in its predictions for deep intronic variants — including both false positives and false negatives — that are not captured by existing prediction programs. This highlights a broader gap in the field: many newly developed algorithms lack robust experimental validation, particularly for non-coding and deep intronic variant classes.
 Our dataset, paired with ocular tissue RNA sequencing data from our patient registry, represents a unique resource for improving and contextualizing model training in a biologically accurate, tissue-specific manner. I am actively interested in collaborations aimed at integrating retinal genomics expertise and experimental validation into next-generation variant effect prediction tools.
-Additional Roles
+<h2>Additional Roles</h2>
 I perform fluorescence-activated cell sorting regularly at the flow cytometry facility and consult for leading gene therapy biotechnology and pharmaceutical companies, advising on computational pipeline design, data strategy, and translational decision-making.
